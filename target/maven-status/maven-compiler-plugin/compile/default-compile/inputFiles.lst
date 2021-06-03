@@ -1,4 +1,5 @@
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\BeerInventoryApplication.java
+C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\bootstrap\BeerInventoryBootstrap.java
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\controllers\BeerInventoryController.java
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\model\BeerInventoryDto.java
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\repositories\BeerInventoryRepository.java
@@ -6,4 +7,3 @@ C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\gu
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BaseEntity.java
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\web\mappers\DateMapper.java
 C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\domain\BeerInventory.java
-C:\Users\user\Desktop\microservices\mssc-beer-inventory-service\src\main\java\guru\sfg\beer\inventory\service\bootstrap\BeerInvntoryBootstrap.java
